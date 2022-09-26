@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TipCalculatorCompose</string>
+    <string name="price_per_person">Price Per Person</string>
+    <string name="price">$%.2f</string>
+    <string name="enter_total_price">Enter Total Price</string>
+    <string name="split_over">Split Over</string>
+    <string name="tip">Tip Calculated:</string>
+    <string name="split_count">%d</string>
+    <string name="tip_percentage">%d%%</string>
+    <string name="tip_amount">$%.2f</string>
+</resources>
