@@ -3,7 +3,9 @@ Tip App in Jetpack Compose, casual app
 
 
 Features:
+
   Tip Calculation:
+
     - Add the price of check
     - Choose the percentage
     - Select how many customers
